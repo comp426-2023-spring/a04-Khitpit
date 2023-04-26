@@ -1,0 +1,19 @@
+{
+  "name": "a04-khitpit",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissor API",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/comp426-2023-spring/a04-Khitpit.git"
+  },
+  "author": "Khitpit",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-Khitpit/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-Khitpit#readme"
+}
